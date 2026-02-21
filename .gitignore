@@ -1,8 +1,30 @@
+# Compiled executables (no extension)
+HelloWorld
+MonthlyExpenditureA
+MonthlyExpenditureB
+MonthlyExpenditureC
+MonthlyExpenditureD
+MonthlyExpenditureE
+MonthlyExpenditureSecure
+MonthlyExpenditureFgetsSecure
+Population
+Compoundvalue
+Convert
+
+# General file extensions
 *.txt
 *.exe
 *.o
+*.out
 a.out
 *.swp
 *.swo
 *~
 .DS_Store
+
+# IDE files
+.vscode/*
+!.vscode/settings.json
+
+# Directories
+*.dSYM
