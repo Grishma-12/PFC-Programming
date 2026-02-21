@@ -1,0 +1,8 @@
+*.txt
+*.exe
+*.o
+a.out
+*.swp
+*.swo
+*~
+.DS_Store
