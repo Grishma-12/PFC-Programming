@@ -1,0 +1,30 @@
+# Compiled executables (no extension)
+DaysInMonth
+ElectricityBillA
+ElectricityBillB
+FutureDates
+InfiniteLoopDemo
+KeyboardInput
+LoopsPractice
+MultiplicationTable
+SecureLogin
+SecureMenu
+SumCalculator
+
+# General file extensions
+*.txt
+*.exe
+*.o
+*.out
+a.out
+*.swp
+*.swo
+*~
+.DS_Store
+
+# IDE files
+.vscode/*
+!.vscode/settings.json
+
+# Directories
+*.dSYM
