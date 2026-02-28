@@ -39,3 +39,10 @@ a.out
 
 # Directories
 *.dSYM
+
+# Ignore everything except .c and .json files
+*
+!*.c
+!*.json
+!.gitignore
+!*/
