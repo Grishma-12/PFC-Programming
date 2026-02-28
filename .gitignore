@@ -10,6 +10,17 @@ MonthlyExpenditureFgetsSecure
 Population
 Compoundvalue
 Convert
+FutureDates
+KeyboardInput
+ElectricityBillA
+ElectricityBillB
+SumCalculator
+DaysInMonth
+SecureLogin
+InfiniteLoopDemo
+SecureMenu
+MultiplicationTable
+LoopsPractice
 
 # General file extensions
 *.txt
