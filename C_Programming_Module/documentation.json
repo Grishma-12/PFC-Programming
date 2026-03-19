@@ -1,0 +1,15 @@
+{
+  "title": "C_Programming_Module Documentation",
+  "description": "Contains practical C programming exercises for the PFC course.",
+  "folders": [
+    "practical2",
+    "Practical3",
+    "Practical4",
+    "Practical6"
+  ],
+  "guidelines": {
+    "per-file": "Add top comment block with problem description, input/output format, sample usage, date, author",
+    "readme": "keep this documentation in module root" 
+  },
+  "usage": "Compile with gcc <file>.c -o <file> and run ./<file>"
+}
